@@ -1,6 +1,8 @@
 # Zero-mt
 
-|Source|Target|CT2 model|Sample|
+## Pretrained models
+
+|Source|Target|CT2 model|Samples|
 |:-------------:|:---------------:|:---------------:|:---------------:|
 |Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|[translated/zh_hant-en](https://github.com/zape-aat/zero-mt/tree/main/translated/zh_hant-en)
 
