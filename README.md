@@ -1,6 +1,6 @@
-|Source|Target|CT2 model|
-|:-------------:|:---------------:|:---------------:|
-|Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|
+|Source|Target|CT2 model|Sample|
+|:-------------:|:---------------:|:---------------:|:---------------:|
+|Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|[translated/zh_hant-en](https://github.com/zape-aat/zero-mt/tree/main/translated/zh_hant-en)
 
 # How to use
 
