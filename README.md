@@ -1,8 +1,10 @@
+# Zero-mt
+
 |Source|Target|CT2 model|Sample|
 |:-------------:|:---------------:|:---------------:|:---------------:|
 |Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|[translated/zh_hant-en](https://github.com/zape-aat/zero-mt/tree/main/translated/zh_hant-en)
 
-# How to use
+## How to use
 
 ```
 git lfs install
@@ -13,7 +15,7 @@ git clone https://huggingface.co/aarontseng/zero-mt-zh_hant-en
 pip install ctranslate2
 pip install sentencepiece
 ```
-# Basic Usage
+## Basic Usage
 
 ```
 import ctranslate2
@@ -35,7 +37,7 @@ decoded_line = tgt_model.decode(results[0].hypotheses[0])
 print(decoded_line) # In many places around the world, waving is a friendly gesture of "hello".
 ```
 
-# Batch translation
+## Batch translation
 ```
 import ctranslate2
 import sentencepiece
