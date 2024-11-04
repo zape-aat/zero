@@ -1,3 +1,3 @@
-|Source|Target|CT2 Model|
+|Source|Target|CT2 model|
 |:-------------:|:---------------:|:---------------:|
-|English|Traditional Chinese|[Huggingface](https://huggingface.co/aarontseng/zero-en-zh_hant)|
+|Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|
