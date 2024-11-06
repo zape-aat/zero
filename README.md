@@ -5,6 +5,7 @@
 |Source|Target|CT2 model|Samples|
 |:-------------:|:---------------:|:---------------:|:---------------:|
 |Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|[translated/zh_hant-en](https://github.com/zape-aat/zero-mt/tree/main/translated/zh_hant-en)
+|English|Traditional Chinese|[Huggingface](https://huggingface.co/aarontseng/zero-mt-en-zh_hant)|[translated/zh_hant-en](https://github.com/zape-aat/zero-mt/tree/main/translated/en-zh_hant)
 
 ## How to use
 
