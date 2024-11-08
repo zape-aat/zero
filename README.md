@@ -6,6 +6,7 @@
 |:-------------:|:---------------:|:---------------:|:---------------:|
 |Traditional Chinese|English|[Huggingface](https://huggingface.co/aarontseng/zero-mt-zh_hant-en)|[translated/zh_hant-en](https://github.com/zape-aat/zero-mt/tree/main/translated/zh_hant-en)
 |English|Traditional Chinese|[Huggingface](https://huggingface.co/aarontseng/zero-mt-en-zh_hant)|[translated/en-zh_hant](https://github.com/zape-aat/zero-mt/tree/main/translated/en-zh_hant)
+|English|Simplified Chinese|[Huggingface](https://huggingface.co/aarontseng/zero-mt-en-zh)|[translated/en-zh](https://github.com/zape-aat/zero-mt/tree/main/translated/en-zh)
 
 ## How to use
 
